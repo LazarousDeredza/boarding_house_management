@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "851581617516",
+    "project_id": "boardinghousemanagement-2ba24",
+    "storage_bucket": "boardinghousemanagement-2ba24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851581617516:android:b98bf1e42d52f532ac1f49",
+        "android_client_info": {
+          "package_name": "com.example.boarding_house_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851581617516-jgkd7bfommpqrqbpk33l4djmphg8it14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boarding_house_management",
+            "certificate_hash": "ab7e06c9ab802ffbf411450c4d5be44edc232b81"
+          }
+        },
+        {
+          "client_id": "851581617516-p7ohm7lga6b1qbbb2cco0g9r0ejni2hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfTVK0NpiRif1a7G1die0StODIJYpWSFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851581617516-p7ohm7lga6b1qbbb2cco0g9r0ejni2hc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851581617516-ldvgt8cnhk0i8htpvc6dgfpea8h0g96f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boardingHouseManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

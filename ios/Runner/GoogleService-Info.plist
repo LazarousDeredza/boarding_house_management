@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>851581617516-ldvgt8cnhk0i8htpvc6dgfpea8h0g96f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.851581617516-ldvgt8cnhk0i8htpvc6dgfpea8h0g96f</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>851581617516-jgkd7bfommpqrqbpk33l4djmphg8it14.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA170EJilanaYYyMFZhmI2Oq4pe6Avhfak</string>
+	<key>GCM_SENDER_ID</key>
+	<string>851581617516</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.boardingHouseManagement</string>
+	<key>PROJECT_ID</key>
+	<string>boardinghousemanagement-2ba24</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boardinghousemanagement-2ba24.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:851581617516:ios:f154c281ce3e4e4eac1f49</string>
+</dict>
+</plist>
