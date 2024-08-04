@@ -95,7 +95,10 @@ class OnBoardingScreen extends StatelessWidget {
                                   ),
                                   Text(
                                     onBoardingController.title2,
-                                    style: TextStyleConstants.onboardText1,
+                                    style: TextStyleConstants.onboardText1.copyWith(
+                                      overflow: TextOverflow.ellipsis
+                                    )
+                                    
                                   )
                                 ],
                               ),

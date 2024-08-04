@@ -5,6 +5,7 @@ class TextStyleConstants {
   //on boarding screen styles
   static TextStyle onboardText1 = TextStyle(
       fontSize: 25,
+      overflow: TextOverflow.ellipsis,
       color: ColorConstants.primaryColor,
       fontWeight: FontWeight.w700);
 
